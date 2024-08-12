@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Hakeem Olajuwon",
+    "position": "Center",
+    "number": "34",
+    "hallofFame": true,
+    "champion": true,
+    "careerPPG": 21.8,
+    "careerAST": 2.5,
+    "careerRB": 11.1,
+    "rookieSeason": 1984,
+    "lastSeasonPlayed": 2002
+  },
+
+  {
+    "name": "James Harden",
+    "position": "Shooting Guard",
+    "number": "13",
+    "hallofFame": false,
+    "champion": false,
+    "careerPPG": 24.1,
+    "careerAST": 7.1,
+    "careerRB": 5.6,
+    "rookieSeason": 2009,
+    "lastSeasonPlayed": 2024
+  },
+
+  {
+    "name": "Tracy McGrady",
+    "position": "Shooting Guard",
+    "number": "1",
+    "hallofFame": true,
+    "champion": false,
+    "careerPPG": 19.6,
+    "careerAST": 4.4,
+    "careerRB": 5.6,
+    "rookieSeason": 1997,
+    "lastSeasonPlayed": 2013
+  },
+
+  {
+    "name": "Yao Ming",
+    "position": "Center",
+    "number": "11",
+    "hallofFame": true,
+    "champion": false,
+    "careerPPG": 19,
+    "careerAST": 1.6,
+    "careerRB": 9.2,
+    "rookieSeason": 1997,
+    "lastSeasonPlayed": 2011
+  },
+
+  {
+    "name": "Elvin Hayes",
+    "position": "Center",
+    "number": "44",
+    "hallofFame": true,
+    "champion": true,
+    "careerPPG": 21,
+    "careerAST": 1.8,
+    "careerRB": 12.5,
+    "rookieSeason": 1968,
+    "lastSeasonPlayed": 1984
+  },
+
+  {
+    "name": "Jalen Green",
+    "position": "Shooting Guard",
+    "number": "4",
+    "hallofFame": false,
+    "champion": false,
+    "careerPPG": 19.8,
+    "careerAST": 3.3,
+    "careerRB": 4.1,
+    "rookieSeason": 2021,
+    "lastSeasonPlayed": 2024
+  }
+]
